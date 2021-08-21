@@ -18,9 +18,9 @@ jobs:
 
         with:
 
-          find: "LEGEND BOT"
+          find: "LEGENDX22"
 
-          replace: "MrunalX"
+          replace: "Godmrunal"
 
       - name: Create Pull Request
 
