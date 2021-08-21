@@ -1,4 +1,4 @@
-name: LEGENDX
+name: MrunalX
 
 on: push
 
@@ -34,6 +34,6 @@ jobs:
 
           repository: .
 
-          commit_user_name: LEGENDXOP
+          commit_user_name: MrunalX
 
           commit_user_email: legendxx08377@gmail.com
