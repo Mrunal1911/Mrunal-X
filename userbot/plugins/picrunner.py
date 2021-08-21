@@ -58,7 +58,7 @@ async def animepp():
     urllib.request.urlretrieve(fy,"donottouch.jpg")
 @borg.on(admin_cmd(pattern="ppr ?(.*)"))
 async def main(event):
-    await event.edit("**Starting Profile Pic Runner by @LEGEND_USERBOT_SUPPORT..**") #Owner@LEGENDX22
+    await event.edit("**Starting Profile Pic Runner by @LEGEND_USERBOT_SUPPORT..**") #Owner@Godmrunal
     while True:
       try:
         await animepp()

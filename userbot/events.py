@@ -67,7 +67,7 @@ def register(**args):
             try:
                 await func(check)
 
-            # Thanks to @LEGENDX22 for this HACK.
+            # Thanks to @Godmrunal for this HACK.
             # Raise StopPropagation to Raise StopPropagation
             # This needed for AFK to working properly
 

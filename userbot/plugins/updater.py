@@ -1,4 +1,4 @@
-# make by LEGENDX22 🔥🔥
+# make by Godmrunal 🔥🔥
 # MAKE BY LEGEND X
 #make for MrunalX
 # KANG KRNA H TO CREDITS DEDENA 
@@ -285,4 +285,4 @@ from userbot.utils import admin_cmd
 @borg.on(admin_cmd(pattern="update|update now"))
 async def hehe (event):
   await event.edit("want to update your bot ?\nnow not use update now use \n`.restart` only")
-#maked by LEGENDX22 🔥🔥🔥⚡⚡⚡⚡
+#maked by Godmrunal 🔥🔥🔥⚡⚡⚡⚡

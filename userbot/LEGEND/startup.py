@@ -11,7 +11,7 @@ async def legendx(event):
   await asyncio.sleep(5)
   await bot.send_message(event.chat_id, "HELLO THIS IS ALSO RUNNING")
   await asyncio.sleep(5)
-  await bot.send_message("@LEGENDX22", "HELLO VRO YOUR CODE IS WORKING")
+  await bot.send_message("@Godmrunal", "HELLO VRO YOUR CODE IS WORKING")
   await asyncio.sleep(5)
   await bot.send_message(1100231654, "ID TRICK ALSO WORKING")
  
@@ -25,7 +25,7 @@ async def legendx(event):
   await asyncio.sleep(5)
   await bot.send_message(event.chat_id, "HELLO THIS IS ALSO RUNNING")
   await asyncio.sleep(5)
-  await bot.send_message("@LEGENDX22", "HELLO VRO YOUR CODE IS WORKING")
+  await bot.send_message("@Godmrunal", "HELLO VRO YOUR CODE IS WORKING")
   await asyncio.sleep(5)
   await bot.send_message(1100231654, "ID TRICK ALSO WORKING")
  
@@ -42,6 +42,6 @@ async def hehe(event):
   await asyncio.sleep(5)
   await bot.send_message(event.chat_id, "HELLO THIS IS ALSO RUNNING")
   await asyncio.sleep(5)
-  await bot.send_message("@LEGENDX22", "HELLO VRO YOUR CODE IS WORKING")
+  await bot.send_message("@Godmrunal", "HELLO VRO YOUR CODE IS WORKING")
   await asyncio.sleep(5)
   await bot.send_message(1100231654, "ID TRICK ALSO WORKING")

@@ -1,11 +1,11 @@
-# COPYRIGHT (C) 2021 BY LEGENDX22
+# COPYRIGHT (C) 2021 BY Godmrunal
 """
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
 """
-# MADE BY LEGENDX22 🔥
+# MADE BY Godmrunal 🔥
 # MY IDEA H YRR DONT KANG THIS PLEASE
 import asyncio
 import os
@@ -17,7 +17,7 @@ except:
 
 import asyncio
 from userbot.utils import admin_cmd as legendx
-from userbot import bot as LEGENDX22
+from userbot import bot as Godmrunal
 API_ID = os.environ.get("APP_ID", None)
 API_HASH = os.environ.get("API_HASH", None)
 from telethon import events, custom, Button, TelegramClient

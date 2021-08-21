@@ -1,5 +1,5 @@
 # made by @Alain_Champion and TEAMLEGEND
-# Credites :- @LEGENDX22 , @PROBOYX
+# Credites :- @Godmrunal , @PROBOYX
 # if you kang this please keep credits
 
 # SPECIES THANKS TEAMLEGEND

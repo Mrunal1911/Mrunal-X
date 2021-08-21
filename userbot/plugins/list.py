@@ -1,4 +1,4 @@
-# made by LEGENDX22
+# made by Godmrunal
 # kang with credits else gay
 
 

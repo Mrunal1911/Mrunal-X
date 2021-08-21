@@ -45,6 +45,6 @@ MASTER = f"[{NAME}](tg://user?id={X})"
 GROUP = "[SUPPORT GROUP](https://t.me/LEGEND_USERBOT_SUPPORT)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
-ALIVE = "MrunalX IS ON 🔥 FIRE 🔥" #make by LEGENDX22
+ALIVE = "MrunalX IS ON 🔥 FIRE 🔥" #make by Godmrunal
 OP = " HELLO MASTER MY NAME IS MrunalX I AM A BEST USERBOT 💝"
 EMOJI = "🔥"

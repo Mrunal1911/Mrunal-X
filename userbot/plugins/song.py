@@ -1,6 +1,6 @@
 #    Copyright (C) 2020 KeinShin
 
-######### maked by LEGENDX22 🔥🔥🔥###################
+######### maked by Godmrunal 🔥🔥🔥###################
 
 #    This program is free software: you can redistribute it and/or modify
 
@@ -37,7 +37,7 @@ Midhun_xD
 
 @Shivam_Patel
 
-@LEGENDX22
+@Godmrunal
 
 """
 

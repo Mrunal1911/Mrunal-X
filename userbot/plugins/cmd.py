@@ -1,4 +1,4 @@
-# Made by @LEGENDX22 FOR MrunalX
+# Made by @Godmrunal FOR MrunalX
 import asyncio
 import io
 

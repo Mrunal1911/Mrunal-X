@@ -1,5 +1,5 @@
 
-# credits LEGENDX22
+# credits Godmrunal
 
 from telethon import events
 import asyncio

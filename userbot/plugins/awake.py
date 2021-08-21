@@ -1,10 +1,10 @@
 """
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
-           MADE BY @LEGENDX22 dont kang this plugin
-         CREDITS = @LEGENDX22 @PROBOYX @alain_champion
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
+           MADE BY @Godmrunal dont kang this plugin
+         CREDITS = @Godmrunal @PROBOYX @alain_champion
      Special thanks @alain_champion for this modified version
             if you kang then keep credits
 """

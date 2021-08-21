@@ -1,4 +1,4 @@
-#modify by @LEGENDX22
+#modify by @Godmrunal
 #credits shivam thanks bruh
 
 from telethon import events

@@ -1,10 +1,10 @@
-# COPYRIGHT (C) 2021-2022 © BY LEGENDX22 AND PROBOYX 🔥
+# COPYRIGHT (C) 2021-2022 © BY Godmrunal AND PROBOYX 🔥
 """
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
-               MADE BY LEGENDX22 AND PROBOYX
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
+               MADE BY Godmrunal AND PROBOYX
                  CREDITS TEAMLEGEND
                DONT REMOVE THIS LINES
 """
@@ -30,4 +30,4 @@ async def Buttons(event):
         await pro.forward_to(event.chat_id)
         await event.delete()
     except:
-        await event.edit("example:\n.button b<button name>|<link>\n`.button LEGENDX|https://t.me/LEGENDX22`\nmake sure your name and link no have Useless spece ", link_preview=False)
+        await event.edit("example:\n.button b<button name>|<link>\n`.button LEGENDX|https://t.me/Godmrunal`\nmake sure your name and link no have Useless spece ", link_preview=False)

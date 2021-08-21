@@ -1,12 +1,12 @@
-# COPYRIGHT © BY LEGENDX22
+# COPYRIGHT © BY Godmrunal
 
 """
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
-(((((((((((((((((((((((@LEGENDX22)))))))))))))))))))))))))))
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
+(((((((((((((((((((((((@Godmrunal)))))))))))))))))))))))))))
 
-                 MADE BY LEGENDX22
+                 MADE BY Godmrunal
                  IDEA BY PROBOYX
                  CREDITS TEAMLEGEND
                  PLEASE KEEP CREDITS 🥺
@@ -29,5 +29,5 @@ async def inline_id_handler(event: events.InlineQuery.Event):
 @tgbot.on(events.callbackquery.CallbackQuery(data=re.compile(b"obhai")))
 async def callback_query_handler(event):
 
-# inline by LEGENDX22 and PROBOYX 🔥
+# inline by Godmrunal and PROBOYX 🔥
   await event.edit(text=f"{BOT} REPO AND GROUP LINK",buttons=[[Button.url(f"🔥{BOT} REPO🔥", url="https://github.com/LEGENDXOP/MrunalX"), Button.url(f"⚡{BOT} SUPPORT⚡", url="https://t.me/LEGEND_USERBOT_SUPPORT")]])

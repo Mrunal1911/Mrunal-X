@@ -1,11 +1,11 @@
-# MADE BY LEGENDX22 AND PROBOYX
+# MADE BY Godmrunal AND PROBOYX
 #CREDITS TELEBOT
 # KEEP CREDITS PLEASE 🥺
 import asyncio
 from LEGENDX import NAME
 from userbot import CMD_HELP
 from userbot.utils import admin_cmd
-# By (@proboy22), and (@LEGENDX22)
+# By (@proboy22), and (@Godmrunal)
 from userbot import bot
 PRO = NAME
 @bot.on(admin_cmd("superfban ?(.*)"))
@@ -54,7 +54,7 @@ async def _(event):
             await event.edit("BHAAG BETICHOD APNE BAAP KO FBAN DEGA")
             return
     except BaseException:
-        if FBAN == "@PROBOYX" or FBAN == "@LEGENDX22":
+        if FBAN == "@PROBOYX" or FBAN == "@Godmrunal":
             await event.edit("NIKAL LAWDE TUJHE HI SUPER FBAN KRRAHAHU.")
             return
     if Config.FBAN_GROUP_ID:
@@ -226,6 +226,6 @@ CMD_HELP.update(
         \n**Usage**: Mass-Ban in all feds you are admin in.\
         \nSet `EXCLUDE_FED fedid1|fedid2` in heroku vars to exclude those feds.\
         \nSet var `FBAN_GROUP_ID` to the group with rose, where you want FBan to take place.\
-        \n\nGet help - @LEGENDX22 OR @PROBOYX."
+        \n\nGet help - @Godmrunal OR @PROBOYX."
     }
 )

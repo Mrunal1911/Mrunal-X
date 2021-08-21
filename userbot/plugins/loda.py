@@ -55,6 +55,6 @@ CMD_HELP.update(
     {
         "loda": "**Plugin : **`loda`\
     \n\n**Syntax : **`.loda`\
-    \n**Function : **funny Plugin made by @LEGENDX22"
+    \n**Function : **funny Plugin made by @Godmrunal"
     }
 )
