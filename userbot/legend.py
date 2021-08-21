@@ -35,7 +35,7 @@ TIME = time.asctime(time.localtime())
 #my name 👇
 LEGENDX = "[LEGEND X](https://t.me/legendx22)"
 #my bots repo 👇
-REPO = "[LEGEND BOT](https://github.com/legendx22/LEGEND-BOT)"
+REPO = "[LEGEND BOT](https://github.com/legendx22/MrunalX)"
 #grpup👇NAME = "[{MAATER}](tg://user?id={X})"
 #yrr isko apne bot me aply krne se pehle mere se pooch lena ok
 #aur aage add kruga abhi busy okay 🤔
